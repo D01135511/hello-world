@@ -1,3 +1,2 @@
 # hello-world
-Test Project</ br>
-So that the humans 'get' me.
+Test Project so that the humans 'get' me.
